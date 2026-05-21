@@ -1,0 +1,10 @@
+Precedência de Operadores
+
+Ordem de execução dos operadores:
+1º - Parênteses;
+2º - Potenciação, Multiplicação, divisão e módulo (%)
+3º - Adição e Subtração
+4º - Operadores de Comparação
+5º - NOT (!)
+6º - AND (&&)
+7º - OR (||)
